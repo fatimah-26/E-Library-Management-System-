@@ -1,4 +1,4 @@
-# E-Library-Management-System-
+# E-Library-Management-System
 
 Designed and implemented an Electronic Library Management System database using MySQL.
 
