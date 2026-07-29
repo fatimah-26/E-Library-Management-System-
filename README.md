@@ -1,7 +1,7 @@
 # E-Library-Management-System
 
 ## Project Overview
-A relational database system designed to manage books, members, authors, and borrowing operations.
+A relational database system designed to manage books, members, authors, and borrowing operations to implement a successful E-Library-Management-System.
 
 ## Database Design
 - Requirement Analysis
